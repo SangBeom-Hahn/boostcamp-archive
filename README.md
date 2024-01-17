@@ -40,8 +40,11 @@
 | [6주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [albumentation 활용](https://hsb422.tistory.com/entry/Augmentation-PARTalbumentation-%ED%99%9C%EC%9A%A9) |
 | [7주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) |  |
 
+<!--
 - [[랩업 리포트] 가브리엘의 클래스와 객체](https://youtu.be/xt9uzb39K5w?si=b79T3xUuh_zQJ9Rk)
 - [[피드백] 가브리엘의 클래스와 객체](https://youtu.be/xt9uzb39K5w?si=b79T3xUuh_zQJ9Rk)
+-->
+
 
 <!--
 
