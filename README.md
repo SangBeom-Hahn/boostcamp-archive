@@ -36,9 +36,24 @@
 | [2주차](https://hsb422.tistory.com/entry/al-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [ResNet34 구현](https://hsb422.tistory.com/entry/%E3%85%81-Pytorch-PART%EB%85%BC%EB%AC%B8-%EB%B3%B4%EA%B3%A0-Resnet-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%B9%84%EB%B2%95) |
 | [3주차](https://hsb422.tistory.com/entry/Naver-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [Pytorch Template OCP 원칙 적용](https://hsb422.tistory.com/entry/%E3%85%81Pytorch-PARTBase-%ED%8C%8C%EC%9D%BC-%EC%84%A4%EC%A0%95) |
 | [4주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [DataLoader 활용](https://hsb422.tistory.com/entry/%E3%85%81Pytorch-PART%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%8D%94-%EC%9D%B8%EC%9E%90-%ED%99%9C%EC%9A%A9Collate-Sampler) |
-| [5주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [GPU Pool 구현기](https://hsb422.tistory.com/entry/%E3%85%81Pytorch-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0) |
+| [5주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [GPU Pool 구현기 1](https://hsb422.tistory.com/entry/%E3%85%81Pytorch-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0) |
 | [6주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [albumentation 활용](https://hsb422.tistory.com/entry/Augmentation-PARTalbumentation-%ED%99%9C%EC%9A%A9) |
 | [7주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) |  |
+
+## 레벨 2
+| 미션명 | 기간 | Pull Request |
+|---|---|---|
+| 재활용 품목 객체 탐지 | '24.01.03 ~ '24.01.18 | [컨테이너 방식 모듈 주입 환경 셋팅](https://github.com/boostcampaitech6/level2-objectdetection-cv-05/pull/14) |
+| | | [GPU Pool 기능 구현](https://github.com/boostcampaitech6/level2-objectdetection-cv-05/pull/20)  | 
+| | | [Slack 알림 봇](https://github.com/boostcampaitech6/level2-objectdetection-cv-05/pull/21)  | 
+
+| 회고 | 이슈 블로깅 |
+|---|---|
+| [8주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [MMlab 커스텀 파이프라인 제작](https://hsb422.tistory.com/entry/%EB%AF%B8-MMLab-PART%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%A0%9C%EC%9E%91) |
+| [9주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-9%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [GPU Pool 구현기 2](https://hsb422.tistory.com/entry/ML-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0-2) |
+| [10주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-10%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [학습 속도 개선](https://hsb422.tistory.com/entry/MLOps-PART%ED%95%99%EC%8A%B5-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0) |
+| [11주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) 
+
 
 <!--
 - [[랩업 리포트] 가브리엘의 클래스와 객체](https://youtu.be/xt9uzb39K5w?si=b79T3xUuh_zQJ9Rk)
@@ -47,18 +62,6 @@
 
 
 <!--
-
-## 레벨 2
-|   | 미션명 | 기간 | 페어 | Step1 | Step2 | Step3 |
-|---|---|---|---|---|---|---|
-| 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/1) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/59) |  |
-| 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [Pull Request](https://github.com/woowacourse/react-payments/pull/187) | [Pull Request](https://github.com/woowacourse/react-payments/pull/254) | [Pull Request](https://github.com/woowacourse/react-payments/pull/291) |  |
-| 3 | 장바구니 | '23.05.09 ~ '23.05.22 | [우코(김유권)](https://github.com/ukkodeveloper) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/161) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/231) |
-| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
-
-- [우아한테크코스 5기 FE 레벨 2을 마치며...](https://leirbag.tistory.com/150)
-- [나의 개발 여정 : 왜 하필 프론트엔드였을까?](https://github.com/gabrielyoon7/woowa-writing-5/blob/gabrielyoon7/level-2.md)
-
 ## 레벨 3
 
 팀 프로젝트
@@ -71,6 +74,10 @@
 - [서비스 소개글](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B9%B4%ED%8E%98%EC%9D%B8?authuser=0)
 - [우아한테크코스 5기 FE 레벨 3을 마치며...](https://leirbag.tistory.com/155)
 
+-->
+
+<!--
+
 ## 레벨 4
 |   | 미션명 | 기간  | PR(Step1) | PR(Step2) |
 |---|---|---|---|---|
@@ -80,7 +87,7 @@
 
 - [내가 꿈꾸는 프로그래머의 삶](https://github.com/gabrielyoon7/woowa-writing-5/blob/gabrielyoon7/level-4.md)
 
----
+-->
 
 <!--
 ## 미러링 방식
