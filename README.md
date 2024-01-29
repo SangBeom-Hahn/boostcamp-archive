@@ -42,6 +42,8 @@
 
 [[레벨 1 프로젝트 랩업 리포트]](https://drive.google.com/file/d/11nsKKL7OprwQie3uSnjjApsZhNWabT8I/view?usp=drive_link)
 
+[[레벨 1 프로젝트 랩업 리포트 피드백]](https://drive.google.com/file/d/1gXGpBS1tsHCvTNNRxwxJb4Kcfk47KSdH/view?usp=drive_link)
+
 ---
 
 ## 레벨 2
@@ -59,6 +61,8 @@
 | [11주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) 
 
 [[레벨 2 프로젝트 랩업 리포트]](https://drive.google.com/file/d/13rxzQBWtCwMbXRTUghdYOxnhh5Egv-NI/view?usp=drive_link)
+
+[[레벨 2 프로젝트 랩업 리포트 피드백]](https://drive.google.com/file/d/1gXGpBS1tsHCvTNNRxwxJb4Kcfk47KSdH/view?usp=drive_link)
 
 ---
 
