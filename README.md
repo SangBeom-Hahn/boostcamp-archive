@@ -58,7 +58,9 @@
 | [8주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [MMlab 커스텀 파이프라인 제작](https://hsb422.tistory.com/entry/%EB%AF%B8-MMLab-PART%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%A0%9C%EC%9E%91) |
 | [9주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-9%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [GPU Pool 구현기 2](https://hsb422.tistory.com/entry/ML-PARTGPU-%ED%92%80-%EA%B5%AC%ED%98%84%EA%B8%B0-2) |
 | [10주차](https://hsb422.tistory.com/entry/%E3%85%81%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-10%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [학습 속도 개선](https://hsb422.tistory.com/entry/MLOps-PART%ED%95%99%EC%8A%B5-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0) |
-| [11주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) 
+| [11주차](https://hsb422.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [AMP 이슈 및 피클 직렬화](https://hsb422.tistory.com/entry/%EB%AF%B8-MLOps-PARTAMP-%EC%88%98%EC%A0%95) |
+| [12주차](https://hsb422.tistory.com/entry/%EB%AF%B8-%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-Tech-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) |
+
 
 [[레벨 2 프로젝트 랩업 리포트]](https://drive.google.com/file/d/13rxzQBWtCwMbXRTUghdYOxnhh5Egv-NI/view?usp=drive_link)
 
