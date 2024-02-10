@@ -76,10 +76,12 @@
 -->
 
 
-<!--
+
 ## 레벨 3
 
 팀 프로젝트
+
+<!--
 
 ### [카페인 홈페이지 바로가기](https://carffe.in)
 
@@ -90,6 +92,15 @@
 - [우아한테크코스 5기 FE 레벨 3을 마치며...](https://leirbag.tistory.com/155)
 
 -->
+
+| 주차별 정리 | 이슈 블로깅 |
+|---|---|
+| [1, 2주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-2%EC%A3%BC%EC%B0%A8%EA%B8%B0%ED%9A%8D-%EB%8B%A8%EA%B3%84) | 
+| [3주차](https://hsb422.tistory.com/entry/%EA%B8%B0%EB%8A%A5-%EC%84%A4%EA%B3%84-ERD) | 
+| [4, 5주차](https://hsb422.tistory.com/entry/Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4-5%EC%A3%BC%EC%B0%A83D-%EB%AA%A8%EB%8D%B8-%EB%A6%AC%EC%84%9C%EC%B9%98-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EC%84%9C%EC%B9%98) | 
+| [6, 7주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-6%EC%A3%BC%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89%EB%B0%A9%EC%8B%9D-%EC%A3%BC%EC%A0%9C-%EA%B5%AC%EC%B2%B4%ED%99%94-%ED%83%80%EB%8B%B9%EC%84%B1-%EB%B6%84%EC%84%9D) | 
+| [8주차](https://hsb422.tistory.com/entry/Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-8%EC%A3%BC%EC%B0%A8%EB%AA%A8%EB%8D%B8-%EC%84%B8%EB%AF%B8%EB%82%98-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C) | 
+| [9, 10주차](https://hsb422.tistory.com/entry/%EB%AF%B8-Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-9-10%EC%A3%BC%EC%B0%A8%EA%B0%80%EA%B5%AC-%EB%AA%A8%EB%8D%B8-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%8A%88%EA%B0%80-%EB%B7%B0%EC%96%B4-UXR-%EB%AA%A8%EB%8D%B8-%ED%94%BD%EC%8A%A4) | 
 
 <!--
 
