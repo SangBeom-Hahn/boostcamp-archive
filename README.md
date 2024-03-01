@@ -93,9 +93,9 @@
 
 -->
 
-| 주차별 정리 | 이슈 블로깅 |
-|---|---|
-| [1, 2주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-2%EC%A3%BC%EC%B0%A8%EA%B8%B0%ED%9A%8D-%EB%8B%A8%EA%B3%84) | 
+| 주차별 정리 | 이슈 블로깅 | Pull Request |
+|---|---|---|
+| [1, 2주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-2%EC%A3%BC%EC%B0%A8%EA%B8%B0%ED%9A%8D-%EB%8B%A8%EA%B3%84) |   | [동영상 병렬 업로드 최적화](https://github.com/bcatcv5/zzimkong-backend/pull/9)  |
 | [3주차](https://hsb422.tistory.com/entry/%EA%B8%B0%EB%8A%A5-%EC%84%A4%EA%B3%84-ERD) | 
 | [4, 5주차](https://hsb422.tistory.com/entry/Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4-5%EC%A3%BC%EC%B0%A83D-%EB%AA%A8%EB%8D%B8-%EB%A6%AC%EC%84%9C%EC%B9%98-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EC%84%9C%EC%B9%98) | 
 | [6, 7주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-6%EC%A3%BC%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89%EB%B0%A9%EC%8B%9D-%EC%A3%BC%EC%A0%9C-%EA%B5%AC%EC%B2%B4%ED%99%94-%ED%83%80%EB%8B%B9%EC%84%B1-%EB%B6%84%EC%84%9D) | 
