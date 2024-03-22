@@ -81,6 +81,8 @@
 
 팀 프로젝트
 
+- [최종 프로젝트 랜덤 멘토 피드백](https://docs.google.com/spreadsheets/d/14gMP3zWWuZawQIKKYzB-Pjc053ZThwdb2N37nQrSX9U/edit?usp=sharing)
+
 <!--
 
 ### [카페인 홈페이지 바로가기](https://carffe.in)
