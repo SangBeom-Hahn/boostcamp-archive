@@ -81,6 +81,8 @@
 
 팀 프로젝트
 
+### [보여줘, 홈즈 홈페이지 바로가기](https://zzimkong.ggm.kr/)
+
 - [최종 프로젝트 랜덤 멘토 피드백](https://docs.google.com/spreadsheets/d/14gMP3zWWuZawQIKKYzB-Pjc053ZThwdb2N37nQrSX9U/edit?usp=sharing)
 - [최종 프로젝트 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg)
 
