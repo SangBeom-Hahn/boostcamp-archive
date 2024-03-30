@@ -107,7 +107,6 @@
 | [6, 7주차](https://hsb422.tistory.com/entry/%E3%85%81Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-6%EC%A3%BC%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89%EB%B0%A9%EC%8B%9D-%EC%A3%BC%EC%A0%9C-%EA%B5%AC%EC%B2%B4%ED%99%94-%ED%83%80%EB%8B%B9%EC%84%B1-%EB%B6%84%EC%84%9D) |   | [스토리지 업로드 비동기 처리](https://github.com/bcatcv5/zzimkong-backend/pull/30) | 
 | [8주차](https://hsb422.tistory.com/entry/Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-8%EC%A3%BC%EC%B0%A8%EB%AA%A8%EB%8D%B8-%EC%84%B8%EB%AF%B8%EB%82%98-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C) | 
 | [9, 10주차](https://hsb422.tistory.com/entry/%EB%AF%B8-Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-9-10%EC%A3%BC%EC%B0%A8%EA%B0%80%EA%B5%AC-%EB%AA%A8%EB%8D%B8-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%8A%88%EA%B0%80-%EB%B7%B0%EC%96%B4-UXR-%EB%AA%A8%EB%8D%B8-%ED%94%BD%EC%8A%A4) | 
-| [11, 12주차](https://hsb422.tistory.com/entry/%EB%AF%B8-Naver-PART%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-11-12%EC%A3%BC%EC%B0%A8%EC%B6%94%EB%A1%A0-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-%EB%B0%A9%EB%B2%95) | 
 
 <!--
 
