@@ -83,7 +83,7 @@
 
 팀 프로젝트
 
-### [보여줘, 홈즈 홈페이지 바로가기](https://zzimkong.ggm.kr/)
+<!-- ### [보여줘, 홈즈 홈페이지 바로가기](https://zzimkong.ggm.kr/) -->
 
 - [보여줘, 홈즈 Repository](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05)
 - [서비스 소개글](https://bcatcv5.github.io/posts/2/)
